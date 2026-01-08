@@ -62,6 +62,13 @@ Documentation is available at https://kiro.dev/docs/powers/
 
 ---
 
+### iam-policy-autopilot
+**Generate and Deploy IAM Policies Deterministically** - Generate IAM policies for application code with deterministic code analysis, and automatically apply fixes for access denied errors
+
+**MCP Servers:** iam-policy-autopilot
+
+---
+
 ### neon
 **Build a database with Neon** - Serverless Postgres with database branching, autoscaling, and scale-to-zero - perfect for modern development workflows.
 
